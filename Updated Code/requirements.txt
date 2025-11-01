@@ -1,0 +1,24 @@
+
+
+# PyTorch and audio/vision packages
+torch>=2.8.0
+torchvision>=0.23.0
+torchaudio>=2.8.0
+
+# Image handling
+pillow>=11.3.0
+opencv-python>=4.12.0.88
+numpy>=2.2.6
+
+# Streamlit for web app
+streamlit>=1.35.0
+
+
+# Optional utilities
+matplotlib>=3.8.0
+tqdm>=4.66.0
+pydicom>=2.4.0
+
+
+# Grad-CAM visualization (installed from GitHub)
+git+https://github.com/jacobgil/pytorch-grad-cam.git
